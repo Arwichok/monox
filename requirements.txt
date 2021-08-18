@@ -1,0 +1,4 @@
+pydantic~=1.8.2
+pytest~=6.2.4
+httpx~=0.18.2
+respx~=0.17.1
